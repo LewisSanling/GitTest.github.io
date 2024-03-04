@@ -1,2 +1,5 @@
-# GitTest.github.io
-GitTest.github.io
+개인용 포트폴리오 입니다.
+-개인정보
+-스킬정보
+-프로젝트
+-깃허브 주소가 적혀있습니다.
